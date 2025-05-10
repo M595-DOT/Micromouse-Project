@@ -12,3 +12,7 @@ This project is for the development and design of a MicroMouse for EEE3088F 2025
 
 # Usage
 The project documentation can be found in the Documents directory and the files required to produce the PCB can be found in the Production directory.
+
+# Contact
+* Manelisi Ngcobo-NGCMAN017@myuct.ac.za
+* Ayanda Madlala-MDLAYA022@myuct.ac.za
