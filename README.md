@@ -2,7 +2,7 @@ Micromouse-Project
 GROUP NUMBER 43
 MEMBERS MANELISI NGCOBO AND AYANDA MADLALA
 
-Description//
+##Description
 This project is for the development and design of a MicroMouse for EEE3088F 2025. The Micro Mouse contains a Sensing Module, Power Module, as well as the main control unit(Motherboard). The sensing system will sense obstacles in the proximity of the mouse, while the power module is mainly for powering the motors of the mouse and charging the on-board battery of the mouse.
 
 Structure//
